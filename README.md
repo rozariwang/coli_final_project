@@ -1,9 +1,8 @@
 # README
 
 ## Directory Structure
-.
-├── GPT_4_Prompting.ipynb
-└── XLM_ROBERTa.ipynb
+- GPT_4_Prompting.ipynb
+- XLM_ROBERTa.ipynb
 
 ## Versions
 Python: 3.10.9
